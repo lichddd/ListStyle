@@ -1,0 +1,55 @@
+ul
+{
+	list-style-type: none;
+	
+}
+
+.list-box
+{
+	margin: auto;
+	width: 960px;
+	height: auto;
+	display: block;
+}
+
+
+
+.list-T
+{
+	    transition:1s;
+transition:all;
+    
+-moz-transition-duration:1s;
+-moz-transition-property:all;
+-webkit-transition-duration:1s;
+-webkit-transition-property:all;
+-o-transition-duration:1s;
+-o-transition-property:all;
+	
+	
+}
+
+.list-T1
+{
+	width: 120px;
+	height: 120px;
+	float: left;
+	display: block;
+	border:1px solid red;
+	margin: 10px;
+}
+
+.list-T2
+{
+	
+	height: 120px;
+	display: block;
+	border:1px solid red;
+	margin: 10px;
+}
+
+ul li img
+{
+	width: 120px;
+	height: 120px;
+}
